@@ -20,7 +20,7 @@ SPOTIPY_REDIRECT_URI="a redirect uri that matches one in your spotify app"
 run
 
 ```
-python get-songs.py
+python get-songs.py <SPOTIFY USERNAME>
 ```
 
 to start downloading
