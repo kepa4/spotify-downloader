@@ -4,8 +4,8 @@ a python script that finds your saved songs on spotify and downloads them to you
 
 ## Dependecies
   * [ytmdl](https://github.com/deepjyoti30/ytmdl)
-  * [python-dotenv] (https://github.com/theskumar/python-dotenv)
-  * [spotipy] (https://github.com/plamere/spotipy) 
+  * [python-dotenv](https://github.com/theskumar/python-dotenv)
+  * [spotipy](https://github.com/plamere/spotipy) 
 
 ## Setup
 
